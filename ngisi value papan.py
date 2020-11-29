@@ -17,7 +17,7 @@ for i in range (JBom):
 
 
 
-#Menentukan Kotak mana yang merupakan Bom
+#Menentukan Kotak mana yang merupakan Bom,angka 99 diartikan sebagai BOM
 #Masih bug entah kenapa jadi satu baris yang ter isi nilai bukan cuma satu kotak
 for i in range (papan):
         for j in range (papan):
